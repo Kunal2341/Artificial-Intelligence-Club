@@ -1,0 +1,6 @@
+The file was too large to be saved so please check 
+https://pjreddie.com/media/files/yolov3.weights
+
+Open this link and it auto saved the file
+
+wget https://pjreddie.com/media/files/yolov3.weights
